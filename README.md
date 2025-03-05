@@ -1,8 +1,8 @@
-# CXR-Based-Cardiomegaly-CAD-
+# CXR-Based-Cardiomegaly-CAD
 Code for "Designing a computer-assisted diagnosis system for cardiomegaly detection and radiology report generation"
 [![DOI:10.1101/2024.09.02.24311997](http://img.shields.io/badge/DOI-10.1101/2024.09.02.24311997-blue.svg)](https://doi.org/10.1101/2024.09.02.24311997)
 
-The files contained in this repository are in support of the above study. 
+The files contained in this repository support the above study. 
 
 1. ResNet50 Model Training.ipynb
    
@@ -10,7 +10,7 @@ The files contained in this repository are in support of the above study.
    
    Create folders containing training images first.
    
-   Replace placeholder within code to the training directory path.
+   Replace the placeholder within the code with the training directory path.
    
    Install necessary packages if missing (such as torch).
    
@@ -23,7 +23,7 @@ The files contained in this repository are in support of the above study.
 
    Create folders containing testing images first using information provided within the augmented MIMIC metadata csv file.
 
-   Replace placeholder within code to the testing directory path.
+   Replace the placeholder within the code with the testing directory path.
 
    Install necessary packages if missing.
 
