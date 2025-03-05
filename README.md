@@ -39,3 +39,5 @@ The files contained in this repository are in support of the above study.
    Perform segmentation on CXR images to obtain lung/heart masks.
 
    Run code to obtain CTR and create/test the cardiomegaly classification model.
+
+The code was originally hosted in [here](https://github.com/jz4520/CXR-Based-Cardiomegaly-CAD-).
